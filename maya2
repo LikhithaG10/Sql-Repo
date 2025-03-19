@@ -1,0 +1,4 @@
+SELECT title
+FROM Movies
+WHERE title BETWEEN 'I' AND 'T'
+ORDER BY title;
